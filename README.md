@@ -1,4 +1,6 @@
 # Gantungan Kiyomi Gummy
+Buat livestream kamu menjadi lebih manis dengan memajang gantungan Kiyomi Gummy yang sangat lucu ini!
+URL: https://github.com/falmesino/gantungan-kiyomi-gummy
 
 ## Panduan
 1. Buka OBS
@@ -13,3 +15,6 @@
 10. Atur posisinya sesuai keinginan
 11. Tambahkan Filter Chroma Key untuk menghilangkan warna hijaunya
 12. Selesai
+
+## Apakah boleh aku curry source codenya, kak?
+Jika kamu mau membuat gantungan versi kamu sendiri, ambil aja, gratis.
